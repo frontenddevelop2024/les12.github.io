@@ -1,0 +1,75 @@
+ 
+ header{
+                background-color: #FF66FF;
+                width: 825px;
+                height: 50px;
+            }
+footer{
+                background-color: #FFFF00;
+                width: 825px;
+                height: 50px;
+            }
+#paprika{
+    background-color: #FF0000;
+    width:200px;
+}
+#rodepaprika{
+    background-color: #0000B0;
+    width:200px;
+}
+#hond{
+    background-color: #00FF00;
+    width:200px;
+}
+#grijzehond{
+    background-color: #DA70D6;
+    width:200px;
+}
+#aubergine{
+    background-color: #8B008B;
+    width: 200px;
+}
+#paarseaubergine{
+    background-color: #808000;
+    width: 200px;
+}
+#kat{
+    background-color: #A52A2A;
+    width: 200px;
+}
+#grijzekat{
+    background-color: #008080;
+    width: 200px;
+}
+#courgette{
+    background-color: #008000;
+    width: 200px;
+}
+#groenecourgette{
+    background-color: #C0C0C0;
+    width: 200px;
+}
+#paard{
+    background-color: #D2691E;
+    width: 200px;
+}
+#bruinpaard{
+    background-color: #191970;
+    width: 200px;
+}
+#wortel{
+    background-color: #FFA500;
+    width: 200px;
+}
+#oranjewortel{
+    background-color: #800000;
+    width: 200px;
+}
+#schaap{
+    background-color: #0000FF;
+    width: 200px;
+}
+#witschaap{
+    background-color: #DA70D6;
+    width: 200px;
+}
